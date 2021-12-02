@@ -4,4 +4,4 @@ This project was created for small, medium and large businesses, since last year
 With this project, I won Big challenges and it is worth noting that many people use it. Since I want to turn this project into a startup, I don't want to show the sources, but if you need them, then you can write to me and depending on this, I can share a part.  But in order to understand how it works, I want to leave a video with an example of an ordinary person who created a bot for selling pizza, everything will be very clear on this example.
 
 
-https://disk.yandex.ru/d/qK60R-s6aJ9jvw - ссылка на видео
+https://disk.yandex.ru/d/qK60R-s6aJ9jvw - link to the video
